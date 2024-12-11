@@ -10,45 +10,16 @@ p{
 }
 .quest{
     background-color: rgb(173, 55, 55);
-    margin: 5 auto;
+    margin: 15px auto;
     border-radius: 5px;
-    text-align: center;
-    padding: 10px;
+    /* text-align: center; */
+    padding: 15px;
     color: white;
-    margin-bottom: 1%;
+    width: 50%;
+    display: flex;
 }
-.quest1{
-    background-color: rgb(173, 55, 55);
-    margin: 5 auto;
-    border-radius: 5px;
+body{
+    align-items: center;
     text-align: center;
-    padding: 10px;
-    color: white;
-}
-.quest2{
-    background-color: rgb(173, 55, 55);
-    margin: 5 auto;
-    border-radius: 5px;
-    text-align: center;
-    padding: 10px;
-    color: white;
-    margin-top: 1%;
-}
-.quest3{
-    background-color: rgb(173, 55, 55);
-    margin: 5 auto;
-    border-radius: 5px;
-    text-align: center;
-    padding: 10px;
-    color: white;
-    margin-top: 1%;
-}
-.quest4{
-    background-color: rgb(173, 55, 55);
-    margin: 5 auto;
-    border-radius: 5px;
-    text-align: center;
-    padding: 10px;
-    color: white;
-    margin-top: 1%;
+    color: black;
 }
